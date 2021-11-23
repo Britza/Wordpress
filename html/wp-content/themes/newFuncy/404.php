@@ -10,7 +10,6 @@
 
 ?>
     <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_uri();?>"/>
-<!--Mi 404 personalizado-->
 
 <h1 style="color: #8524e8; text-align: center">C MAMO JAJAJA C MAMO</h1>
     <div id="contenedor">
@@ -24,16 +23,9 @@
         </div>
 
         <img class="foto" width="30%" height="50%" src ="<?php echo get_stylesheet_directory_uri();?>/imagenes/icarly-meme.gif">
-        <video src="<?php echo get_stylesheet_directory_uri();?>/videos/jajacmamo.mp4">
+
     </div>
 
-
-    <!--<video src="<?php echo get_stylesheet_directory_uri();?>/videos/jajacmamo.mp4">
-
-
-    <video width="100%" height="100%" controls>
-    <source src="$/videos/jajacmamo.mp4" type="video/mp4">
-</video>-->
 
 <?php
 
