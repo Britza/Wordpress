@@ -29,5 +29,24 @@ body{
     margin: auto;
 }
 .sabroso{
-    font-size: 100px;
+    font-size: 30px;
+}
+
+.static{
+  position: static;
+}
+
+.relative{
+    position: relative;
+    left: 15%;
+}
+
+.fixed{
+    position: fixed;
+    top: 850px;
+}
+
+.absoulute{
+    position: absolute;
+    left: 35%;
 }
