@@ -1,2 +1,2 @@
-<h1>Footer</h1>
+<h1>Gracias por estar en mi pagina :)</h1>
 <?php
