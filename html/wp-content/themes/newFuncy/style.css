@@ -50,3 +50,23 @@ body{
     position: absolute;
     left: 35%;
 }
+
+.post{
+    border:#6c30de  5px dashed ;
+    padding:5px ;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.imagen{
+    padding-right: 30px;
+}
+
+.link{
+    padding-right:30px;
+}
+
+.entry{
+    border: #6c30de 4px solid;
+}
